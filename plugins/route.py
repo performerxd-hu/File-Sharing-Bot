@@ -1,4 +1,4 @@
-#(©)Codexbotz
+#(©)PerformerXD
 #rymme
 
 from aiohttp import web
